@@ -1,11 +1,32 @@
-#result-ruby {
+#result_ruby {
   display: none;
 }
 
-#result-java {
+#result_java {
   display: none;
 }
 
-#result-csharp {
+#result_csharp {
   display: none;
+}
+
+.content_top {
+  background-color: rgb(196, 203, 211);
+}
+
+h1 {
+  text-align: center;
+}
+
+#paragraph_top {
+  padding: 5px 30px 20px 30px;
+}
+
+#paragraph_top2 {
+  padding: 0px 30px 25px 30px;
+}
+
+.content_bottom {
+  background-color: rgb(227, 234, 244);
+  margin-top: -10px;
 }
