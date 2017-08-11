@@ -18,15 +18,48 @@ h1 {
   text-align: center;
 }
 
+h3 {
+  text-align: center;
+  margin-top: -5px;
+  margin-bottom: 20px;
+}
+
+p {
+  text-align: justify;
+}
 #paragraph_top {
-  padding: 5px 30px 20px 30px;
+  padding: 5px 30px 5px 30px;
+  text-align: justify;
 }
 
 #paragraph_top2 {
   padding: 0px 30px 25px 30px;
+  text-align: justify;
 }
 
 .content_bottom {
   background-color: rgb(227, 234, 244);
   margin-top: -10px;
+  padding-top: 15px;
+}
+
+.row2_padding {
+  padding-left: 27px;
+}
+
+.button_center {
+  margin-top: -20px;
+  margin-left: -2px;
+}
+
+.form_content {
+  padding: 5px 30px 5px 30px;
+}
+
+.content_bottom_most {
+  padding: 10px 30px 10px 30px;
+}
+
+.well {
+  padding: 30px 20px 30px 20px;
 }
